@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "anasmaliha98@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "email": "Aut illum ut vel en",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    }
+  ],
+  "carts": [
+    {
+      "name": "Camera",
+      "price": "200",
+      "id": 1
+    },
+    {
+      "name": "Carol Coleman",
+      "price": "167",
+      "id": 2
+    },
+    {
+      "name": "yahya",
+      "price": "500",
+      "image": "download.png",
+      "id": 3
+    }
+  ]
+}
